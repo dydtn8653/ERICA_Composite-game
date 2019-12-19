@@ -10,4 +10,4 @@
 ### Number_BaseBall.py, Odd_Even.py, Up_Down.py, main.py 4개의 코드들을 한 파일에 넣은 후 main.py를 실행시킨다.
 
 # 게임 시현
-![Alt text](/path/to/img.jpg"C:\Users\user\Desktop\오픈 소스 그림들")
+![시작 스크린](https://user-images.githubusercontent.com/55014664/71159366-d9037300-2288-11ea-93d1-cb074932aaaa.PNG)
