@@ -36,12 +36,23 @@
 
 ![업다운-1](https://user-images.githubusercontent.com/55014664/71159510-1c5de180-2289-11ea-90e4-a6089989f09a.PNG)
 
-### 2-1. 
+### 2-1. 1~100 사이의 숫자를 플레이어가 선택하면 컴퓨터가 지정한 숫자가 플레이어가 선택한 숫자보다 UP에 있는지 Down에 있는지 알려줍니다.
 
 ![업다운-2](https://user-images.githubusercontent.com/55014664/71159518-1ec03b80-2289-11ea-860e-d82b416bf5aa.PNG)
 
+### 숫자를 맞추면 플레이어가 몇번에 걸쳐 정답을 맞춘지 알려줍니다.
+
+# 3. 숫자 야구 게임
+
 ![숫자야구 -1](https://user-images.githubusercontent.com/55014664/71159522-21229580-2289-11ea-8763-3c013dcfb553.PNG)
+
+### 3-1. 플레이어가 3자리 수의 숫자를 입력하면 컴퓨터가 스트라이크, 볼, 아웃으로 플레이어 숫자 상태를 알려줍니다.
 
 ![숫자야구 -2](https://user-images.githubusercontent.com/55014664/71159539-267fe000-2289-11ea-9487-b34ef464ab67.PNG)
 
+### 3-2. 플레이어가 컴퓨터가 설정한 세자리 수를 맞출 시 플레이어가 승리합니다.
+
+# 4. 게임 종료
 ![Exit](https://user-images.githubusercontent.com/55014664/71159547-28e23a00-2289-11ea-8521-1e0c0d1526df.PNG)
+
+### Exit의 숫자를 선택하면 게임이 종료합니다.
