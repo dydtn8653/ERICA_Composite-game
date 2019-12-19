@@ -9,6 +9,10 @@
 
 ### Number_BaseBall.py, Odd_Even.py, Up_Down.py, main.py 4개의 코드들을 한 파일에 넣은 후 main.py를 실행시킨다.
 
+# 읽어주세요
+
+### help.txt를 꼭 읽어주세요!
+
 # 게임 시현
 ![시작 스크린](https://user-images.githubusercontent.com/55014664/71159366-d9037300-2288-11ea-93d1-cb074932aaaa.PNG)
 
@@ -95,7 +99,8 @@
 
 # 개발 환경
 
-### 18.04
+### 
+### Ubuntu-18.04.3 LTS
 
 # 도움 받은 커뮤니티
 
