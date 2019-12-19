@@ -3,6 +3,10 @@
 
 # 프로젝트 주제 : 종합 게임
 
+# 설치 안내
+
+```git@github.com:dydtn8653/ERICA_Composite-game.git```
+
 사용한 언어 : Python
 
 # 사용 방법
@@ -99,7 +103,8 @@
 
 # 개발 환경
 
-### 
+### VirtualBox 6.0.14 Build 133895
+
 ### Ubuntu-18.04.3 LTS
 
 # 도움 받은 커뮤니티
