@@ -3,8 +3,6 @@ import random
 # Check Function
 def Check(y):
 
-    y=guess
-
     if len(y)!=3:
         return 1
     elif y[0]==y[1] or y[1]==y[2] or y[2]==y[0]:
@@ -13,7 +11,7 @@ def Check(y):
         return 0
 
 # Check Function
-def StrikeBall(x):
+def StrikeBall(x,myNum):
 
     global strike; strike=0
     for j in range(3):
@@ -27,7 +25,7 @@ def StrikeBall(x):
 
 
 # Main
-def game() :
+def game3() :
     game=0
     out=0
     temp=[]
@@ -63,7 +61,7 @@ def game() :
             for i in range(3):
                 temp.append(int(guess[i]))
 
-            StrikeBall(temp)
+            StrikeBall(temp,myNum)
             temp=[]
 
             if strike==ball==0:
