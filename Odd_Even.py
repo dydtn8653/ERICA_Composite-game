@@ -1,6 +1,5 @@
 import random
 import time
-//
 def game():
     """
     GameStart
@@ -9,7 +8,7 @@ def game():
     money0 = 10000
     money1 = money0 + 1
     print("Start Odd/Even game!\nNow you have 10000$.\nGuess if the sum of the two dice is odd or even.")
-    while ans != "STOP":
+    while ans != "Stop":
         dicesum = dice()
         betmoney = money_betting(money0)
         num = number_choice()
@@ -74,5 +73,5 @@ def number_choice():
         else:
             print("You can only enter Odd/Even")
     return bet_num
-
-game() #game start
+def game1() :
+	game() #game start
